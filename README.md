@@ -2,14 +2,14 @@
 
 ## 🚀 About Me
 
-I'm a **DevOps Engineer** seeking a DevOps Intern role, leveraging my background as an **Intern Software Engineer** and my **Computer Science & Technology** degree from Uva Wellassa University[cite: 2, 5, 56]. I specialize in **deployment**, and optimizing system stability and security[cite: 6].
+I'm a **DevOps Engineer** seeking a DevOps Intern role, leveraging my background as an **Intern Software Engineer** and my **Computer Science & Technology** degree from Uva Wellassa University. I specialize in **deployment**, and optimizing system stability and security.
 
-- 🌱 I'm currently expanding my proficiency in **Terraform, Ansible, and Kubernetes** [cite: 7]
+- 🌱 I'm currently expanding my proficiency in **Terraform, Ansible, and Kubernetes** 
 - 👯 I'm looking to collaborate on **CI/CD Pipelines, Infrastructure as Code, and Cloud Migrations**
 - 🤔 I'm looking for help with **Advanced Kubernetes Orchestration**
-- 💬 Ask me about **AWS, Docker, Jenkins, Python Scripting, and Linux Administration** [cite: 9, 10]
-- 📫 How to reach me: **tmdeshapriya@gmail.com** [cite: 3]
-- 🌐 Portfolio: **[tmdeshapriya.dev](https://tmdeshapriya.dev)** [cite: 3]
+- 💬 Ask me about **AWS, Docker, Jenkins, Python Scripting, and Linux Administration** 
+- 📫 How to reach me: **tmdeshapriya@gmail.com** 
+- 🌐 Portfolio: **[tmdeshapriya.dev](https://tmdeshapriya.dev)** 
 
 ## 🛠️ Tech Stack
 
@@ -38,25 +38,25 @@ I'm a **DevOps Engineer** seeking a DevOps Intern role, leveraging my background
 
 ## 💼 Professional Experience
 
-**Intern Software Engineer | Wattsoft Pvt Ltd** [cite: 15]
-*May 2025 – Nov 2025* [cite: 16]
-- **Cloud & DevOps:** Deployed containerized applications to AWS environments[cite: 18].
-- **Full-Stack Delivery:** Developed features using Spring Boot and React from design to deployment[cite: 17].
-- **Security:** Architected and built role-based security systems using Keycloak and JWT[cite: 19].
+**Intern Software Engineer | Wattsoft Pvt Ltd** 
+*May 2025 – Nov 2025* 
+- **Cloud & DevOps:** Deployed containerized applications to AWS environments.
+- **Full-Stack Delivery:** Developed features using Spring Boot and React from design to deployment.
+- **Security:** Architected and built role-based security systems using Keycloak and JWT.
 
 ## 🏗️ Featured Projects
 
 ### 🚀 [Golden Talk - Education Center Management](https://github.com/tharindudeshapriya/golden-talk)
-A full-stack management system featuring a custom student CRM. Orchestrated the deployment of the entire stack to AWS using Docker[cite: 35, 36].
-**Tech Stack:** `AWS` `Docker` `Spring Boot` `React` `PostgreSQL` [cite: 36, 37]
+A full-stack management system featuring a custom student CRM. Orchestrated the deployment of the entire stack to AWS using Docker.
+**Tech Stack:** `AWS` `Docker` `Spring Boot` `React` `PostgreSQL` 
 
 ### 🚀 [Poultry Farm Management System](https://github.com/tharindudeshapriya/poultry-farm-management)
-A comprehensive microservices-based mobile app with IoT integration for optimizing broiler production and automating farm operations[cite: 44].
-**Tech Stack:** `Spring Boot` `React Native` `MySQL` `MongoDB` `Docker` `Keycloak` `Arduino` [cite: 45]
+A comprehensive microservices-based mobile app with IoT integration for optimizing broiler production and automating farm operations.
+**Tech Stack:** `Spring Boot` `React Native` `MySQL` `MongoDB` `Docker` `Keycloak` `Arduino` 
 
 ### 🚀 [Cinemas - Cinema Hall Booking Website](https://github.com/tharindudeshapriya/cinema-booking)
-A full-featured web platform for movie booking with seat selection and a robust admin dashboard for managing showtimes[cite: 47].
-**Tech Stack:** `React.js` `Django` `MySQL` `Python` [cite: 48]
+A full-featured web platform for movie booking with seat selection and a robust admin dashboard for managing showtimes.
+**Tech Stack:** `React.js` `Django` `MySQL` `Python` 
 
 ### 🚀 [CipherX - Message Encryption App](https://github.com/tharindudeshapriya/cipherx)
 Android mobile application featuring multiple encryption algorithms including Caesar, Rail Fence, and Vigenere ciphers.
@@ -68,17 +68,17 @@ IoT-based automation system with real-time monitoring of pH, temperature, and wa
 
 ## 🎓 Education & Certifications
 
-- **BSc. (Hons) Computer Science & Technology** - Uva Wellassa University (CGPA: 3.65) [cite: 56, 57]
-- **DevOps Mastery Specialization** (Jenkins, Ansible, Docker, Kubernetes, Terraform) [cite: 21-29]
-- **Mastering Linux: The Complete Guide** - Udemy [cite: 30]
-- **AI/ML Engineer Stage 1 & 2** - SLIIT [cite: 31, 32]
+- **BSc. (Hons) Computer Science & Technology** - Uva Wellassa University (CGPA: 3.65) 
+- **DevOps Mastery Specialization** (Jenkins, Ansible, Docker, Kubernetes, Terraform) 
+- **Mastering Linux: The Complete Guide** - Udemy 
+- **AI/ML Engineer Stage 1 & 2** - SLIIT 
 
 ## 🏊‍♂️ Leadership & Community
 
-- **Captain** - Swimming Team, Uva Wellassa University [cite: 61]
-- **Lead Event Coordinator** - FOSS Community of UWU [cite: 62]
-- **Web Developer Volunteer** - Rotaract Club of UWU [cite: 67]
-- **Member** - IEEE Student Branch & Leo Club of UWU [cite: 68, 69]
+- **Captain** - Swimming Team, Uva Wellassa University 
+- **Lead Event Coordinator** - FOSS Community of UWU 
+- **Web Developer Volunteer** - Rotaract Club of UWU 
+- **Member** - IEEE Student Branch & Leo Club of UWU 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tharindudeshapriya&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
