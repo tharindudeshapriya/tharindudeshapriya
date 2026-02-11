@@ -2,105 +2,83 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer Intern** and **Computer Science & Technology** undergraduate at Uva Wellassa University of Sri Lanka . I'm passionate about **full-stack development**, **IoT solutions**, and **machine learning** with a strong focus on building innovative software solutions that solve real-world problems.
+[cite_start]I'm a **DevOps Engineer** seeking a DevOps Intern role, leveraging my background as an **Intern Software Engineer** and my **Computer Science & Technology** degree from Uva Wellassa University[cite: 2, 5, 56]. [cite_start]I specialize in **deployment**, and optimizing system stability and security[cite: 6].
 
-- 🔭 I'm currently working on **Predictive Maintenance and Failure Prediction in Graphite Refining Equipment** (Research Project)
-- 🌱 I'm currently learning **Machine Learning** and **Data-Driven Techniques**
-- 👯 I'm looking to collaborate on **Full-stack Web Applications** and **Machine Learning Projects**
-- 🤔 I'm looking for help with **Advanced Machine Learning Algorithms**
-- 💬 Ask me about **Java, Python, React.js, Spring Boot, IoT Development**
-- 📫 How to reach me: **tmdeshapriya@gmail.com**
-- 🌐 Portfolio: **[tmdeshapriya.me](https://tmdeshapriya.me)**
+- [cite_start]🌱 I'm currently expanding my proficiency in **Terraform, Ansible, and Kubernetes** [cite: 7]
+- 👯 I'm looking to collaborate on **CI/CD Pipelines, Infrastructure as Code, and Cloud Migrations**
+- 🤔 I'm looking for help with **Advanced Kubernetes Orchestration**
+- [cite_start]💬 Ask me about **AWS, Docker, Jenkins, Python Scripting, and Linux Administration** [cite: 9, 10]
+- [cite_start]📫 How to reach me: **tmdeshapriya@gmail.com** [cite: 3]
+- [cite_start]🌐 Portfolio: **[tmdeshapriya.dev](https://tmdeshapriya.dev)** [cite: 3]
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Backend
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![JSP](https://img.shields.io/badge/-JSP-007396?style=flat-square&logo=java&logoColor=white)
-![Servlets](https://img.shields.io/badge/-Servlets-007396?style=flat-square&logo=java&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
+### Containers & Orchestration
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+### CI/CD & Automation
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Other Technologies
-![Keycloak](https://img.shields.io/badge/-Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+### Development & Databases
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+## 💼 Professional Experience
 
-## 🌐 Connect With Me
+**Intern Software Engineer | [cite_start]Wattsoft Pvt Ltd** [cite: 15]
+[cite_start]*May 2025 – Nov 2025* [cite: 16]
+- [cite_start]**Cloud & DevOps:** Deployed containerized applications to AWS environments[cite: 18].
+- [cite_start]**Full-Stack Delivery:** Developed features using Spring Boot and React from design to deployment[cite: 17].
+- [cite_start]**Security:** Architected and built role-based security systems using Keycloak and JWT[cite: 19].
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tmdeshapriya)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://tmdeshapriya.me)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmdeshapriya@gmail.com)
+## 🏗️ Featured Projects
 
-</div>
-
-## 💼 Featured Projects
+### 🚀 [Golden Talk - Education Center Management](https://github.com/tharindudeshapriya/golden-talk)
+A full-stack management system featuring a custom student CRM. [cite_start]Orchestrated the deployment of the entire stack to AWS using Docker[cite: 35, 36].
+[cite_start]**Tech Stack:** `AWS` `Docker` `Spring Boot` `React` `PostgreSQL` [cite: 36, 37]
 
 ### 🚀 [Poultry Farm Management System](https://github.com/tharindudeshapriya/poultry-farm-management)
-A comprehensive microservices-based mobile app with IoT integration for optimizing broiler production and automating farm operations with real-time monitoring capabilities.
-
-**Tech Stack:** `Spring Boot` `React Native` `MySQL` `MongoDB` `Kafka` `Docker` `Keycloak` `Arduino`
+[cite_start]A comprehensive microservices-based mobile app with IoT integration for optimizing broiler production and automating farm operations[cite: 44].
+[cite_start]**Tech Stack:** `Spring Boot` `React Native` `MySQL` `MongoDB` `Docker` `Keycloak` `Arduino` [cite: 45]
 
 ### 🚀 [Cinemas - Cinema Hall Booking Website](https://github.com/tharindudeshapriya/cinema-booking)
-A full-featured web platform for movie booking with advanced search, seat selection, reviews, and comprehensive admin management system.
-
-**Tech Stack:** `React.js` `Django` `MySQL` `Python`
+[cite_start]A full-featured web platform for movie booking with seat selection and a robust admin dashboard for managing showtimes[cite: 47].
+[cite_start]**Tech Stack:** `React.js` `Django` `MySQL` `Python` [cite: 48]
 
 ### 🚀 [CipherX - Message Encryption App](https://github.com/tharindudeshapriya/cipherx)
-Android mobile application featuring multiple encryption algorithms including Caesar, Rail Fence, Vigenere, and Columnar Transposition ciphers.
-
+Android mobile application featuring multiple encryption algorithms including Caesar, Rail Fence, and Vigenere ciphers.
 **Tech Stack:** `Java` `Kotlin` `Android Development`
 
 ### 🚀 [Smart Aquarium System](https://github.com/tharindudeshapriya/smart-aquarium)
-IoT-based automation system with real-time monitoring of pH, temperature, turbidity, and water levels, featuring automatic feeding and data visualization.
-
+IoT-based automation system with real-time monitoring of pH, temperature, and water levels, featuring automatic feeding.
 **Tech Stack:** `C++` `IoT` `Arduino`
-
-### 🚀 [Stayeeza - Hotel Booking Platform](https://github.com/tharindudeshapriya/stayeeza)
-Modern hotel booking website with advanced search filters, secure booking system, and responsive design for optimal user experience.
-
-**Tech Stack:** `HTML` `CSS` `JavaScript` `PHP`
 
 ## 🎓 Education & Certifications
 
-- **BSc. (Hons) Computer Science & Technology** - Uva Wellassa University (CGPA: 3.6)
-- **Mastering Linux: The Complete Guide** - Udemy
-- **AI/ML Engineer Stage 1 & 2** - SLIIT
+- **BSc. (Hons) [cite_start]Computer Science & Technology** - Uva Wellassa University (CGPA: 3.65) [cite: 56, 57]
+- [cite_start]**DevOps Mastery Specialization** (Jenkins, Ansible, Docker, Kubernetes, Terraform) [cite: 21-29]
+- [cite_start]**Mastering Linux: The Complete Guide** - Udemy [cite: 30]
+- [cite_start]**AI/ML Engineer Stage 1 & 2** - SLIIT [cite: 31, 32]
 
 ## 🏊‍♂️ Leadership & Community
 
-- **Captain** - Swimming Team, Uva Wellassa University
-- **Lead Event Coordinator** - FOSS Community, Uva Wellassa University
-- **Web Developer Volunteer** - Rotaract Club of Uva Wellassa University
-- **Active Member** - IEEE Uva Wellassa University Student Branch
-- **Volunteer** - Leo Club Of Uva Wellassa University
-
+- [cite_start]**Captain** - Swimming Team, Uva Wellassa University [cite: 61]
+- [cite_start]**Lead Event Coordinator** - FOSS Community of UWU [cite: 62]
+- [cite_start]**Web Developer Volunteer** - Rotaract Club of UWU [cite: 67]
+- [cite_start]**Member** - IEEE Student Branch & Leo Club of UWU [cite: 68, 69]
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tharindudeshapriya&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
